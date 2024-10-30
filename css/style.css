@@ -1,0 +1,11 @@
+
+/* */
+.subtitle-cb{
+
+    display:none;
+}
+.woocommerce-breadcrumb .subtitle-cb{
+    display: none;
+    float: left;
+}
+
